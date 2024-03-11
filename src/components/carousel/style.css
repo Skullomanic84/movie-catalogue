@@ -47,7 +47,7 @@
 }
 
 .carousel .loadingSkeleton .skeletonItem {
-    width: 125px;
+    width: 250px;
     flex-shrink: 0;
 }
 
