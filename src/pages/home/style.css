@@ -1,0 +1,15 @@
+.carouselSection {
+    position: relative;
+    margin: 40px 0px;
+}
+.carouselSection > .contentWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.carouselSection .carouselTitle {
+    font-size: 20px;
+    color: white;
+    font-weight: 900;
+}
